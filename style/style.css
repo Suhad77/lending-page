@@ -15,7 +15,7 @@ a{
 .first-images{
     height: 800px;
     background-size: cover;
-    background-position: 0 -250px;
+    background-position: center;
     padding: 25px;
     background-color: aqua;
     
